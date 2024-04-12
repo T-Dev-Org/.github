@@ -8,11 +8,12 @@
 
 Somos un equipo de ingenieros de sistemas de la Universidad del Valle dedicados al desarrollo de videojuegos para la Web 3D como parte de nuestra asignatura de Proyecto Integrador I.
 
-### Integrantes
-- **Julian David Rendon** - [@JulianRC1](https://github.com/JulianRC1)
+### Integrantes (A-Z)
+
 - **Juan David Loaiza** - [@JuanLoaiza007](https://github.com/JuanLoaiza007)
-- **Yissy Katherine Posso** - [@YissyPosso](https://github.com/YissyPosso)
+- **Julian David Rendon** - [@JulianRC1](https://github.com/JulianRC1)
 - **Juan Sebastian Muñoz** - [@sebastianmr18](https://github.com/sebastianmr18)
+- **Yissy Katherine Posso** - [@YissyPosso](https://github.com/YissyPosso)
 
 ## Proyecto Actual
 
