@@ -11,8 +11,8 @@ Somos un equipo de ingenieros de sistemas de la Universidad del Valle dedicados 
 ### Integrantes (A-Z)
 
 - **Juan David Loaiza** - [@JuanLoaiza007](https://github.com/JuanLoaiza007)
-- **Julian David Rendon** - [@JulianRC1](https://github.com/JulianRC1)
 - **Juan Sebastian Muñoz** - [@sebastianmr18](https://github.com/sebastianmr18)
+- **Julian David Rendon** - [@JulianRC1](https://github.com/JulianRC1)
 - **Yissy Katherine Posso** - [@YissyPosso](https://github.com/YissyPosso)
 
 ## Proyecto Actual
